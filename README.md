@@ -1,3 +1,3 @@
-# Зайцы (яйцы)
+# Bunny Benchmark
 
-Бенчмарк в браузере!
+Vibe-coding btw
